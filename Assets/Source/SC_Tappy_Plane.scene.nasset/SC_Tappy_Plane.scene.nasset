@@ -43,8 +43,11 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
-                    -0.1,
+                    0.0552,
                     0.3975
+                ],
+                "scale": [
+                    1.3706
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -63,8 +66,13 @@
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
                     0.0,
-                    -0.2499,
-                    -2.0
+                    -0.4207,
+                    -2.5
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.9032
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
@@ -509,6 +517,36 @@
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "aac4bbbe-8da7-a0c0-be53-541d5ba28b25"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c267f6b0-5292-13f1-6e3f-b5c678327775",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ground Dirt.001"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    -0.4207,
+                    2.866
+                ],
+                "rotation": [
+                    -179.9999,
+                    0.0,
+                    -179.9999
+                ],
+                "scale": [
+                    1.0,
+                    1.0,
+                    1.9032
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "dec467aa-5f4b-b968-f095-f3a9754365f4"
             }
         }
     ],
