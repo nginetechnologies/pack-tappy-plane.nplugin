@@ -1,4 +1,8 @@
 {
+    "0503b085-ebe8-6e4b-eaab-a0b5b4b669bc": {
+        "assetTypeGuid": "be3e4b1b-40cb-409f-8bec-bcd10e57a3e2",
+        "path": "Assets/Scripts/Plane.script.nasset"
+    },
     "060aeda7-57b4-a99e-7cdb-310a6775ea16": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -46,6 +50,10 @@
             "808394bb-35c9-6a4f-c11a-699be9fe6ed8",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "12d1690a-6d29-7084-7f72-7ecc2b62b3d4": {
+        "assetTypeGuid": "be3e4b1b-40cb-409f-8bec-bcd10e57a3e2",
+        "path": "Assets/Scripts/Column.script.nasset"
     },
     "14cb615f-8a7b-1994-8458-a5b777fdcaa2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -169,6 +177,18 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Textures/T_letterN_D.tex.nasset"
     },
+    "3c48aff5-b169-422a-829a-d5dc4f48a4b3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Tappy Plane Player.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "47f83371-9d8d-5384-39e5-b112c226e822"
+        ]
+    },
     "3d8ed58c-d8cb-8a47-6605-ad16d0045be4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -181,6 +201,11 @@
             "45a59577-478e-29d8-f8c9-c65783bf2af2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "3db6ae4d-e8ea-9711-5544-1958bf263580": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Power-Up-7.audio.nasset"
     },
     "3e64b800-2d65-a5e4-570b-fdd3ee4ce5ab": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -289,6 +314,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Textures/T_letterA_D.tex.nasset"
     },
+    "4c2fed81-0d4a-8002-f2aa-dd4ab464ac1c": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Engine-Circular-5.audio.nasset"
+    },
     "4d4fe183-9171-bf92-a818-f8a3b6ea99b2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -364,6 +394,11 @@
             "ac0befd3-fdfd-491c-a266-f5a5a1ebd6b5",
             "88083419-0776-c0f7-c8c2-c84286a18637"
         ]
+    },
+    "5cda1860-fab3-4703-8d5e-6be3f95bbd87": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Explosion-4.audio.nasset"
     },
     "5e73b0ec-69d5-7ae0-8789-a0efa51f90c7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -451,6 +486,10 @@
     "6d3de7f4-65b6-fa6d-928b-4fe808a8be50": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Textures/T_tapTick_D.tex.nasset"
+    },
+    "6f7f5e6e-537f-3a70-9981-1b27437db013": {
+        "assetTypeGuid": "be3e4b1b-40cb-409f-8bec-bcd10e57a3e2",
+        "path": "Assets/Scripts/ScoreTarget.script.nasset"
     },
     "7243d6eb-a885-a756-2063-804f0b1c26ca": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -718,6 +757,10 @@
     "b14b4deb-f159-a472-edea-65e6a135016c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Textures/T_letterR_D.tex.nasset"
+    },
+    "b23e5655-af2d-f9f6-1fd6-74f936002119": {
+        "assetTypeGuid": "be3e4b1b-40cb-409f-8bec-bcd10e57a3e2",
+        "path": "Assets/Scripts/Rock.script.nasset"
     },
     "b9ad06f0-787b-eb5f-9655-a1ca37232e03": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
